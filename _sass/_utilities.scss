@@ -183,7 +183,11 @@ body:hover .visually-hidden button {
 
 .social-icons {
   .fa {
-    color: #000;
+    color: $text-color;
+  }
+   
+  .fa-map-marker {
+     color: $mapmarker-color;
   }
 
   .fa-behance,
@@ -218,6 +222,10 @@ body:hover .visually-hidden button {
   .fa-google-plus-square {
     color: $google-plus-color;
   }
+  
+  .fa-graduation-cap {
+     color: $gscholar-color;
+  }
 
   .fa-instagram {
     color: $instagram-color;
@@ -231,6 +239,10 @@ body:hover .visually-hidden button {
   .fa-linkedin,
   .fa-linkedin-square {
     color: $linkedin-color;
+  }
+   
+  .ai-orcid-square {
+     color: $orcid-color;
   }
 
   .fa-pinterest,
