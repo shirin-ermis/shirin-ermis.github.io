@@ -1,4 +1,9 @@
-## Sidelined — Climate activists at COP27
+---
+title: 'Sidelined — Climate activists at COP27'
+date: 2022-12-18
+tags:
+  - policy
+---
 
 I wrote this article back in November 2022 for the [Oxford Climate Society](https://www.oxfordclimatesociety.com)'s coverage of COP27. 
 
