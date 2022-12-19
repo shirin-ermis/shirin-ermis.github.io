@@ -1,3 +1,11 @@
+---
+title: 'Settling in at Oxford'
+date: 2022-09-25
+tags:
+  - Oxford
+  - goals
+---
+
 ![Oxford on the Saturday before I started my course](./2022_09_25/IMG_6375_Large.jpeg)
 
 > Autumn seemed to arrive suddenly that year. The morning of the first September was crisp and golden as an apple.
