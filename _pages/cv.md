@@ -52,23 +52,21 @@ Experience in Research and Data Analysis
 
 Publications and Conference Presentations
 ======
-* S. Ermis, P. Moffa-Sánchez, J.-P. Baudouin, K. Rehfeld. Assessment of North Atlantic temperature fingerprints for the recon- struction of Atlantic Meridional Overturning Circulation. (in prep.)
 * SIAM-IMA conference, June 2, 2020. Talk on Assessment of temperature fingerprints in the North Atlantic for the reconstruction of deep water formation.
 * EGU 2020, Poster presentation on Assessment of temperature fingerprints in the North Atlantic for the reconstruction of deep water formation. S. Ermis, P. Moffa-Sánchez, A. Jahn, K. Rehfeld.
 
 Science Communication
 ======
 * Article on palaeoclimatology in for Anthroposphere Magazine, the Oxford Climate Review (2021)
-  * Future Lessons from the Past. Beatrice Ellerhoffer and Shirin Ermis. Online at https://www.anthroposphere.co.uk/post/future-
-lessons-from-the-past (February 2021).
+  * Future Lessons from the Past. Beatrice Ellerhoffer and Shirin Ermis. Online at https://www.anthroposphere.co.uk/post/future-lessons-from-the-past (February 2021).
 * Several published articles in Imperial student newspaper Felix and the blog manybodyphysics.com (2020-present)
   * The future of attribution science. An article on the science of extreme event attribution and an interview with Dr Frieder- ike Otto. Shirin Ermis. Print edition of Felix (October 2021).
-  * This year’s female Nobel Laureates – A paradigm shift? Shirin Ermis. Online at https://felixonline.co.uk/issue/1752/sci- ence/this-years-female-nobel-laureates-leading-a-paradigm-shift (October 2020).
-* Humans of Physics IV: Shirin Ermis. (September 2020). Online at https://manybodyphysics.com/2020/09/17/humans-of- physics-iv-shirin-ermin/
+  * This year’s female Nobel Laureates – A paradigm shift? Shirin Ermis. Online at https://felixonline.co.uk/issue/1752/sci-ence/this-years-female-nobel-laureates-leading-a-paradigm-shift (October 2020).
+* Humans of Physics IV: Shirin Ermis. (September 2020). Online at https://manybodyphysics.com/2020/09/17/humans-of-physics-iv-shirin-ermin/
 
 Interdisciplinary Experience on Climate Change
 ======
-*Delegate of Imperial College to the U7+ Student Forum (Summer 2021)
+* Delegate of Imperial College to the U7+ Student Forum (Summer 2021)
   * Topic of the student forum is “Climate Change: Intergenerational Conflict or Intergenerational Alliance?”
   * Together with a team of six students from across the globe, we wrote a policy brief on how to tackle
 multigenerational issues which will be presented to the U7+ presidents in November 2021
