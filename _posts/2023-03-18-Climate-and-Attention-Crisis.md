@@ -30,3 +30,5 @@ To harness the good sides of the internet without falling for fossil fuel funded
 [1] There is some discussion in the academy on the average attention span of a person with results ranging from mere seconds to 18 minutes. Estimates clearly depend on the measure of attention, who is being assessed and what they are paying attention to.
 
 [2] The Heartland Institute, a conservative think tank, is funded by the Koch brothers who are extremely influential climate denialists due to their company Koch Industries which works with petroleum and other chemicals.
+
+*Thank you to Sofia Della Sala for editing this piece.*
