@@ -1,4 +1,11 @@
-# The force of nature or a case for humility
+---
+title: 'The force of nature or a case for humility'
+date: 204-01-18
+tags:
+  - extreme weather
+  - nature
+  - adaptation
+---
 
 Have you considered recently the risks of walking in the woods behind your house? Or the perils of crossing the Atlantic? Me neither really and I find that this comes as somewhat as a surprise given the potential force of nature. 
 
