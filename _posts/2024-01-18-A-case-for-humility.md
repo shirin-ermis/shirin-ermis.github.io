@@ -1,6 +1,6 @@
 ---
 title: 'The force of nature or a case for humility'
-date: 204-01-18
+date: 2024-01-18
 tags:
   - extreme weather
   - nature
