@@ -57,22 +57,22 @@ Experience in Research and Data Analysis
 
 Publications and Selected Conference Presentations
 ======
-* Event attribution of a midlatitude windstorm using ensemble weather forecasts (2024). Shirin Ermis, Nicholas Leach, Fraser Lott, Sarah Sparrow, and Antje Weisheimer. Environmental Research: Climate. [DOI:10.1088/2752-5295/ad4200]{https://iopscience.iop.org/article/10.1088/2752-5295/ad4200/meta}.
-* Forecast-based attribution for midlatitude cyclones (2024). Shirin Ermis, Nicholas Leach, Fraser Lott, Sarah Sparrow, and Antje Weisheimer. Oral presentation at EGU 2024 [10.5194/egusphere-egu24-1978]{https://doi.org/10.5194/egusphere-egu24-1978}.
-* Modelling interannual variability in a tropical cyclone hazard model (2022). Shirin Ermis and Ralf Toumi. Oral presentation at EGU 2022. [DOI:10.5194/egusphere-egu22-1725]{https://doi.org/10.5194/egusphere-egu22-1725}.
+* Event attribution of a midlatitude windstorm using ensemble weather forecasts (2024). Shirin Ermis, Nicholas Leach, Fraser Lott, Sarah Sparrow, and Antje Weisheimer. Environmental Research: Climate. [DOI:10.1088/2752-5295/ad4200](https://iopscience.iop.org/article/10.1088/2752-5295/ad4200/meta).
+* Forecast-based attribution for midlatitude cyclones (2024). Shirin Ermis, Nicholas Leach, Fraser Lott, Sarah Sparrow, and Antje Weisheimer. Oral presentation at EGU 2024 [10.5194/egusphere-egu24-1978](https://doi.org/10.5194/egusphere-egu24-1978).
+* Modelling interannual variability in a tropical cyclone hazard model (2022). Shirin Ermis and Ralf Toumi. Oral presentation at EGU 2022. [DOI:10.5194/egusphere-egu22-1725](https://doi.org/10.5194/egusphere-egu22-1725).
 * SIAM-IMA conference, June 2, 2020. Talk on Assessment of temperature fingerprints in the North Atlantic for the reconstruction of deep water formation.
 * EGU 2020, Poster presentation on Assessment of temperature fingerprints in the North Atlantic for the reconstruction of deep water formation. S. Ermis, P. Moffa-Sánchez, A. Jahn, K. Rehfeld.
 
 Science Communication
 ======
 * Article for The Converstaion on passing the 1.5˚C warming threshold (2025)
-  * [Global temperatures passed critical 1.5°C milestone for the first time in 2024 – new report]{https://theconversation.com/global-temperatures-passed-critical-1-5-c-milestone-for-the-first-time-in-2024-new-report-246821}
+  * [Global temperatures passed critical 1.5°C milestone for the first time in 2024 – new report](https://theconversation.com/global-temperatures-passed-critical-1-5-c-milestone-for-the-first-time-in-2024-new-report-246821)
 * Article on palaeoclimatology in for Anthroposphere Magazine, the Oxford Climate Review (2021)
-  * Future Lessons from the Past. Beatrice Ellerhoffer and Shirin Ermis. Online at https://www.anthroposphere.co.uk/post/future-lessons-from-the-past (February 2021).
-* Several published articles in Imperial student newspaper Felix and the blog manybodyphysics.com (2020-present)
+  * Future Lessons from the Past. Beatrice Ellerhoffer and Shirin Ermis. [Online version](https://www.anthroposphere.co.uk/post/future-lessons-from-the-past) (February 2021).
+* Several published articles in Imperial student newspaper Felix and the blog [manybodyphysics.com](manybodyphysics.com) (2020-present)
   * The future of attribution science. An article on the science of extreme event attribution and an interview with Dr Frieder- ike Otto. Shirin Ermis. Print edition of Felix (October 2021).
-  * This year’s female Nobel Laureates – A paradigm shift? Shirin Ermis. Online at https://felixonline.co.uk/issue/1752/sci-ence/this-years-female-nobel-laureates-leading-a-paradigm-shift (October 2020).
-* Humans of Physics IV: Shirin Ermis. (September 2020). Online at https://manybodyphysics.com/2020/09/17/humans-of-physics-iv-shirin-ermin/
+  * This year’s female Nobel Laureates – A paradigm shift? Shirin Ermis. [Online version](https://felixonline.co.uk/issue/1752/sci-ence/this-years-female-nobel-laureates-leading-a-paradigm-shift) (October 2020).
+* Humans of Physics IV: Shirin Ermis. (September 2020). [Online version](https://manybodyphysics.com/2020/09/17/humans-of-physics-iv-shirin-ermin/)
 
 Interdisciplinary Experience on Climate Change
 ======
