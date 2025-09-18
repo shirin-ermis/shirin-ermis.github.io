@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics, Heidelberg University, Germany, 2016-2020
 * M.S. in Physics with Extended Research, Imperial College London, 2020-2022
-* DPhil in Environmental Research, University of Oxford, 2022-2026 (expected)
+* DPhil in Atmospheric Physics, University of Oxford, 2022-2026 (expected)
   
 Key technical Skills
 ======
@@ -21,7 +21,7 @@ Key technical Skills
   * Highly proficient in python and R
   * Proficient in Latex, MATLAB, Wolfram, Bash
   * Knowledge of machine learning in python
-  * Daily user of Microsoft office Suite
+  * Numerical Weather Prediction
 * Python specific:
   * Data analysis. numpy , pandas
   * Geospatial: xarray , cdo, netcdf4
@@ -38,6 +38,9 @@ Awards and Scholarships
 
 Experience in Research and Data Analysis
 ======
+* Machine Learning Researcher -- Frontier Development Lab (06/2025-08/2025)
+  * Developed a deep learning model reconstructing 3D structure of clouds from geostationary imagery to improve the global monitoring of tropical cyclone and other extreme weather events. 
+Worked in a team of experts to implement open code using PyTorch Lightning. Results have been presented in live-streamed showcase and submitted to NeurIPS.
 * Research Assistant on Climate Damages -- Oxford Sustainable Law Program (09/2024-present)
   * Worked in an interdisciplinary team to assess methods for calculating flood damages with a hydrological model
   * Within four weeks summarised methods on calculating climate damages from flooding and submitted advice to the US State of Vermont for Climate Superfund Law 
