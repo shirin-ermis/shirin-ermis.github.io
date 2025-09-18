@@ -25,8 +25,8 @@ Key technical Skills
 * Python specific:
   * Data analysis. numpy , pandas
   * Geospatial: xarray , cdo, netcdf4
-  * Data visualisation: matplotlib,
-  plotly, seaborn, cartopy
+  * Data visualisation: matplotlib, cartopy
+  * ML and AI: PyTorch Lightning 
   
 Awards and Scholarships
 ======
